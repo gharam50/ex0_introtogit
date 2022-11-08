@@ -1,5 +1,5 @@
-Favorite color: 
-Favorite food: 
-Favorite musician/band: 
-Favorite movie: 
-Requested grade in the course: 
+Favorite color: Black
+Favorite food: Burgers
+Favorite musician/band: ABBA
+Favorite movie: Goodfellas
+Requested grade in the course: 98
